@@ -10,7 +10,7 @@ Web Applications Build and Deploy Exercise
   f.Under Java select your version of Java: 19<br>
   g.Click Add Dependencies and select: Spring Web, Spring Data JPA, MySQL Driver.<br>
   h.Click: GENERATE<br>
-Or you can use this pre-initialized project<br><br>
+Or you can use this pre-initialized project<br>
 
 2.Your objectives for the api portion of the project are as follows<br>
   a.You will model some data of your choosing (in class we used Candy and Songs, for example)<br>
